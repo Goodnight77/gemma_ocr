@@ -19,14 +19,14 @@ Gemma-3 OCR is a Streamlit-based application that extracts structured text from 
 
 **Installation Steps:**
 
-1. Clone the repository: `git clone <repository_url>` (Replace `<repository_url>` with the actual repository URL).
-2. Navigate to the project directory: `cd gemma3_OCR`
+1. Clone the repository: `git clone https://github.com/Goodnight77/gemma_ocr.git`
+2. Navigate to the project directory: `cd gemma_ocr`
 3. Ensure you have Python 3 installed and the following dependencies:
 
 
 **Prerequisites:**
 ```bash
-  pip install streamlit ollama pillow
+  pip install streamlit ollama 
 ```
 
 
