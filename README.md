@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gemma3 OCR
 
 ## Project Overview
@@ -49,3 +50,6 @@ Gemma-3 OCR is a Streamlit-based application that extracts structured text from 
 * Built using Streamlit
 
 * Powered by Ollama's Gemma-3 Vision
+=======
+# gemma_ocr
+>>>>>>> d514f1db2ef10e6ee789579a9c2d553aa8e8f1d7
